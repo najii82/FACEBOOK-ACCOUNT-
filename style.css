@@ -1,0 +1,131 @@
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F0F2F5;
+}
+/* .container{
+     margin: auto;
+    padding: 14px; 
+} */
+.logo{
+    width: 30%;
+    height: 106;
+    margin:28px;
+    margin-left: -80px;
+    margin-top: -40px;
+}
+.box1{
+    float: left;
+    width: 100%;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.r{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    width: 500px;
+    margin-left: -45px;
+    margin-right: -80px;
+    margin-top: -50px;
+} 
+.box2{
+    background-color: #ffffff;
+    float:right;
+    margin-top: -240px;
+    margin-right: 200px;
+    width: 30%;
+    height: 50%;
+    padding-top: 40px;
+    padding-left: 30px;
+    border-radius: 13px;
+
+}
+.i1{
+    font-size: 17px;
+    padding: 14px 16px 14px 16px;
+    width: 330px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    unicode-bidi: embed;
+}
+.i2{
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 14px 16px 14px 16px;
+    width: 330px;
+    border: 1px solid #dddfe2;;
+    border-radius: 6px;
+}
+.i3{
+    background-color: #1877f2;
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px 14px 16px;
+    width: 330px;
+    /* text-align: center; */
+    margin-top: 10px;
+    border: 1px solid #dddfe2;
+    margin-left: 0px;
+
+}
+.b{
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 16px;
+    width: 330px;
+    border-radius: 6px;
+    text-align: center;
+    color: #188CF5;
+}
+button{
+    font-size: 17px;
+    margin-top: 16px;
+    margin-bottom: 18px;
+    padding: 16px;
+    width: 230px;
+    border-radius: 6px;
+    margin-left: 60px;
+    background-color: #4CAF50; 
+    color: white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+
+}
+.l1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 16px;
+    text-decoration: none;
+    color: #000000;
+    text-align: right;
+    margin-top:450px;
+    margin-right: 250px;
+}
+a{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 16px;
+    text-decoration: none;
+    color: #000000;   
+}
+.attribution{
+    margin-top: 50px;
+}
+a:hover {
+    color:maroon;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  button:hover {
+    color:greenyellow;
+    background-color: transparent;
+  }
+  
